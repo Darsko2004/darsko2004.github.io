@@ -5,9 +5,14 @@ h1{
 }
 
 img{
-     width: 240px;
+     width: 400px;
+     text-align: center;
 }
 
 #Jennie{color: black;
 background-color: blueviolet;}
 
+li{color: blueviolet;}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;}
